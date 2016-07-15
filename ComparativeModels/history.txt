@@ -1,0 +1,12 @@
+Folders
+
+Original - original outputs from bibliometrix 
+csv - 	modified original bibliometrix exported as .csv. Then,
+	imported into bibliometrix after being standardized
+	on Open Refine
+csv-xls - modified original bibliometrix exported as .csv. Then,
+	imported into bibliometrix after being standardized
+	on Open Refine as .xls
+xls -	modified original bibliometrix exported as .xls. Then,
+	imported into bibliometrix after being standardized
+	on Open Refine.
